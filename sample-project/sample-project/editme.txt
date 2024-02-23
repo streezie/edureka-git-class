@@ -1,7 +1,0 @@
-
-
-This editme file was modified by the main branch  
-This editme file was modified by Harry 
-This editme.txt file was modified by kane
-This git conflict file has been resolved  
-
